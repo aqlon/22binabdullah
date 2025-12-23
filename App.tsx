@@ -6,7 +6,7 @@ import { BIN_ABDULLAH_BIO, SOCIAL_LINKS, ARTICLE_POINTS, MAIN_POST, SERVICES } f
 
 const App: React.FC = () => {
   // تم استخدام المسار المحلي للصورة المرفوعة
-  const profileImageUrl = "assista/Snapchat-1107833073.jpg";
+  const profileImageUrl = "/assista/Snapchat-1107833073.jpg";
 
   return (
     <div className="min-h-screen flex flex-col font-['Tajawal'] bg-[#020617] text-slate-200 selection:bg-blue-500/30">
